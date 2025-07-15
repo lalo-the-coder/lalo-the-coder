@@ -49,7 +49,14 @@
 <br/>
 
 ---
-
-<img
-    src="https://github-readme-stats.vercel.app/api?username=lalo-the-coder&count_private=true&icon_color=FD9047&custom_title=Eduardo's+GitHub+Stats&show_icons=true"
-/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lalo-the-coder&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lalo-the-coder&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lalo-the-coder&show_icons=true" />
+</picture>
