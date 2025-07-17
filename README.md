@@ -2,12 +2,13 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd214bW5uOTM1YWl5aW11dHR0bmcxZ3ozc21teGI1NHgwNnIzcWgxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-## I'm a Senior Software Engineer at [MT3](https://mt3.se) @ [Sesol](https://sesol.se)
+## I'm a Senior Software Engineer searching for my next challenge 😊
 
 - 👨‍💻 I’m currently working on tailored solutions and third-party integrations using Node.js, PHP, and Python.
 - 📐 Creating great interfaces for humans using React and React Native. 😉
 - 📚 Learning everything about Frontend and Backend technologies with a bit of DevOps 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas - Join a new team to face new challenges.
+- 😎 I'm currently working on a SaaS for gym management tailored for a special scenario 🪡
 
 ---
 
